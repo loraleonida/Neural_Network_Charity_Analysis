@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview 
-The purpose of this analysis is to create a deep learning neural network in order to classify and predict whether organizations will be successful if funded by charity organization AlphabetSoup. Over 34,000 organizations were analyzed to determine the success of the charitable donations from AlphabetSoup charity to the organization.
+The purpose of this analysis is to create a deep learning neural network in order to classify and predict whether organizations will be successful if funded by the charity organization AlphabetSoup. Over 34,000 organizations were analyzed to determine the success of the charitable donations from AlphabetSoup to the organization.
 
 ## Results 
 #### Data Preprocessing
